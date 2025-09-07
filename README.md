@@ -1,18 +1,55 @@
-# 💫 About Me:
-I am a Bachelors Student Of Electronics and Telecommunication at RV College of Engineering Bangalore.<br>I am a VLSI enthusiast looking to seek internships and learn new things.Apart from this <br>I am a Video Editor proficient in DaVinci Resolve software,Photoshop and Canva.<br>I know the programming languages such as C,C++ and Verilog HDL.<br>Apart from this I also know the tools such as Xilinx Vivado,Matlab and LabView.
+# Hi there 👋, I'm Srujan Prasad  
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srujanprasad_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Srujan_0412) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SPSCREATIONS05-02) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SrujanPrasad&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SrujanPrasad&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanPrasad&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 **Aspiring Electronics Engineer | VLSI & Embedded Systems Enthusiast**  
+🎓 B.E. Electronics & Telecommunication @ **RV College of Engineering, Bengaluru** (GPA: 9.13/10)  
+🔍 Passionate about **VLSI design, IoT, Embedded Systems, and Semiconductor Technologies**  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SrujanPrasad&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Skills & Tools  
+
+- **Programming:** Verilog HDL, C, MATLAB  
+- **EDA & Tools:** Cadence Virtuoso, Xilinx Vivado, STM32CubeIDE, LabVIEW, MATLAB Simulink  
+- **Domains:** Digital Electronics, VLSI Design, Signal Processing, Communication Systems  
+
+---
+
+## 📌 Featured Projects  
+
+### 🔹 AI-Powered Pothole Detection System  
+- Built a 4WD robotic platform for real-time pothole detection using **YOLO + OpenCV + TensorFlow**  
+- Achieved **92% accuracy**, reduced false positives by 25%  
+- Integrated **GPS & cloud dashboard** for real-time mapping  
+
+### 🔹 Dual-Edge-Triggered Pulse Generator (VLSI)  
+- Designed in **Cadence Virtuoso (90nm GPDK)**  
+- Implemented DET pulse latch with **8.91% lower power consumption**  
+- Accepted for presentation at **IEEE ICWITE 2025**  
+
+### 🔹 IoT-Based Air Quality & Noise Monitoring  
+- Developed using **STM32F407VGT6 + ESP8266 Wi-Fi**  
+- Real-time data pushed to **ThingSpeak cloud** with alerts  
+- Shortlisted at **IASF 2025** among nationwide teams  
+
+### 🔹 Traffic Light Controller (FSM)  
+- Designed in **Verilog HDL** during internship at **Semi Design**  
+- Implemented two-road traffic signal system using FSM  
+
+---
+
+## 🌟 Leadership & Community  
+
+- **Vice President, HAM Radio Club of RVCE**  
+  - Organized **SDR + MATLAB Workshop 2025** with 50+ participants  
+  - Led planning, execution & cross-team coordination  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srujan-prasad/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SrujanPrasad)  
+📧 Email: **srujanprasad2004@gmail.com**  
+
+---
+⭐️ From [SrujanPrasad](https://github.com/SrujanPrasad)
