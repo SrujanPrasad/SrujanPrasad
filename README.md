@@ -1,16 +1,19 @@
 # Hi there 👋, I'm Srujan Prasad  
 
+![Profile Views](https://komarev.com/ghpvc/?username=SrujanPrasad&label=Profile%20Visits&color=blue&style=flat)  
+
 🚀 **Aspiring Electronics Engineer | VLSI & Embedded Systems Enthusiast**  
-🎓 B.E. Electronics & Telecommunication @ **RV College of Engineering, Bengaluru** (GPA: 9.13/10)  
-🔍 Passionate about **VLSI design, IoT, Embedded Systems, and Semiconductor Technologies**  
+🎓 B.E. Electronics & Telecommunication @ **RV College of Engineering, Bengaluru**  
+🔍 Passionate about **VLSI Design, IoT, Embedded Systems, and Semiconductor Technologies**  
+💡 Exploring cutting-edge low-power circuit design & semiconductor technologies.  
 
 ---
 
 ## 🛠️ Skills & Tools  
 
 - **Programming:** Verilog HDL, C, MATLAB  
-- **EDA & Tools:** Cadence Virtuoso, Xilinx Vivado, STM32CubeIDE, LabVIEW, MATLAB Simulink  
-- **Domains:** Digital Electronics, VLSI Design, Signal Processing, Communication Systems  
+- **EDA & Tools:** Cadence Virtuoso, Xilinx Vivado, MATLAB Simulink  
+- **Domains:** Digital Electronics, VLSI Design, Signal Processing, Communication Systems,Low Power. 
 
 ---
 
@@ -25,6 +28,12 @@
 - Designed in **Cadence Virtuoso (90nm GPDK)**  
 - Implemented DET pulse latch with **8.91% lower power consumption**  
 - Accepted for presentation at **IEEE ICWITE 2025**  
+
+### 🔹 Low-Power 8/9 Prescaler for Frequency Synthesis  
+- Designed a **dual-modulus 8/9 prescaler** in **Cadence Virtuoso (90nm GPDK)**  
+- Used **TSPC flip-flop logic embedding** to minimize switching power  
+- Achieved **30.24% reduction in power consumption** while ensuring correct ÷8 and ÷9 operation  
+- Drafted as a **research paper (under review)**, contributing to low-power VLSI design  
 
 ### 🔹 IoT-Based Air Quality & Noise Monitoring  
 - Developed using **STM32F407VGT6 + ESP8266 Wi-Fi**  
@@ -42,6 +51,19 @@
 - **Vice President, HAM Radio Club of RVCE**  
   - Organized **SDR + MATLAB Workshop 2025** with 50+ participants  
   - Led planning, execution & cross-team coordination  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrujanPrasad&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanPrasad&layout=compact&theme=tokyonight" height="160"/>
+</p>  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SrujanPrasad&theme=tokyonight" height="160"/>
+</p>  
 
 ---
 
